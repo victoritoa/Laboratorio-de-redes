@@ -1,4 +1,4 @@
-Redes & Seguridad — Mi cuaderno de laboratorio
+Redes & Seguridad
 
 Repositorio personal donde voy documentando todo lo que aprendo sobre redes, cortafuegos y ciberseguridad ofensiva/defensiva. Es un "pupurrí" en constante crecimiento: apuntes, laboratorios prácticos, notas de fabricantes y writeups propios.
 
