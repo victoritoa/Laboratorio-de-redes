@@ -4,17 +4,8 @@ Repositorio personal donde voy documentando todo lo que aprendo sobre redes, cor
 
 Estado Labs
 
-📚 Contenido
+Contenido
 El repositorio se organiza en módulos independientes. Cada carpeta contiene teoría, comandos, ejercicios y sus propias notas.
-
-├── 01-fundamentos-redes/        # TCP/IP, modelo OSI, subnetting, DNS, DHCP...
-├── 02-cortafuegos/              # iptables, nftables, pfSense/OPNsense...
-├── 03-fabricantes/              # Notas de Palo Alto, Fortinet, Cisco...
-│   └── palo-alto/
-├── 04-laboratorios/             # Labs prácticos (HTB, TryHackMe, propios)
-├── 05-certificaciones/          # Preparación OSCP y otras certificaciones
-└── recursos/                    # Cheatsheets, topologías, plantillas de lab
-
 La estructura irá evolucionando sobre la marcha. Lo que ves arriba es la hoja de ruta inicial.
 
 Temas planeados
