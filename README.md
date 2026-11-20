@@ -54,7 +54,7 @@ Zones e interfaces
  Preparación OSCP — metodología, notas, herramientas
  (Otras por determinar: CCNA, PNPT, …)
 
-🛠️ Herramientas que uso en los labs
+Herramientas que uso en los labs
 
 Categoría	Herramientas
 Análisis de red	Wireshark, tcpdump, netcat
@@ -68,10 +68,10 @@ Notas importantes
 Todo lo publicado aquí son apuntes de estudio de laboratorios legales (máquinas propia, HTB, THM o entornos controlados). Nada aquí está pensado para usarse contra sistemas sin autorización.
 Los writeups de plataformas como HackTheBox siguen sus políticas: no publico flags ni soluciones completas de máquinas activas.
 
-🤝 Contribuciones
+ Contribuciones
 Es un repositorio personal, pero si pasas por aquí y ves un error, una forma mejor de montar un lab o un tema que debería cubrir, los PR y las issues son bienvenidos.
 
-📌 Por hacer / backlog
+ Por hacer / backlog
 
  Montar laboratorio de red virtualizado completo (router + fw + clientes)
  Lab de segmentación con VLANs
